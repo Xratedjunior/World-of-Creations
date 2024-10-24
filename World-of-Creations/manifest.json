@@ -1,0 +1,24 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "fabric-0.16.7",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "World of Creations",
+  "version": "Alpha 0.1.0",
+  "author": "Xrated_junior",
+  "files": [
+    {
+      "projectID": 306612,
+      "fileID": 5383715,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
