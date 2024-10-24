@@ -99,4 +99,7 @@ Alpha 0.1
 
 		* Config changes:
 		Change Mouse Tweaks scroll behavior
+
+		* Tweaks/Fixes:
+		Fixed Create Fabric and Sound Physics Remastered compatibility
 		
