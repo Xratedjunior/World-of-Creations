@@ -68,7 +68,25 @@ Alpha 0.1
 		Model Gap Fix
 		More Slabs, Stairs, and Walls
 		Mouse Tweaks
-		
+		NiceMod - New blocks
+		Nicer Skies
+		Overflowing Bars [Forge & Fabric]
+		Pick Up Notifier [Forge & Fabric]
+		Polymorph (Fabric/Forge/Quilt)
+		Simple Fog Control
+		Cloth Config API (Fabric/Forge/NeoForge)
+		Smarter Farmers (farmers replant)
+		Sound Physics Remastered
+		Stoneworks [Forge & Fabric]
+		Structory
+		Toggle Item Frames
+		Towns and Towers
+		Cristel Lib
+		Trade Cycling
+		Villager Names
+		Visuality
+		Structure Essentials[Forge/Fabric]
+		Cupboard
 
 		+ Added Resource Packs:
 		Fresh Animations
