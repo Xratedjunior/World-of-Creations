@@ -22,5 +22,9 @@ Alpha 0.1
 		+ Added Resource Packs:
 		Fresh Animations
 
-		* Tweaks:
+		* Changes to options:
+		Activate "Fresh Animations" Resource Pack
+		Set Music volume to 20%
+		* Changed Key Binds:
+		Narrator: 'B' -> 'Not Bound'
 		
