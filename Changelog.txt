@@ -6,6 +6,7 @@ Alpha 0.1
 		+ Added Mods:
 		Create Fabric
 		Just Enough Items (JEI)
+		Configured
 		Mod Menu
 		Sodium
 		Sodium Extra
@@ -14,10 +15,51 @@ Alpha 0.1
 		Indium
 		BadOptimizations
 		ModernFix
+		ImmediatelyFast
 		Rebind Narrator
 		[ETF] Entity Texture Features - [Fabric & Forge]
 		[EMF] Entity Model Features [Fabric & Forge]
-		Configured
+		AmbientSounds 6
+		CreativeCore
+		Amendments
+		Moonlight Lib
+		Animal Feeding Trough [Fabric | Forge | Quilt | NeoForge]
+		Architectury API (Fabric/Forge/NeoForge)
+		AppleSkin
+		Armor Trim Item Fix
+		More Axolotl Variants API
+		More Axolotl Variants Mod
+		Beautify: Refabricated
+		Better Advancements
+		Better Statistics Screen
+		TCDCommons API
+		BetterNether
+		BetterEnd
+		BCLib
+		Bridging Mod
+		YetAnotherConfigLib
+		Camera Utils
+		Carry On
+		Chipped
+		Athena
+		Resourceful Lib
+		Continuity
+		Crate Delight (Fabric)
+		Cull Less Leaves
+		Double Doors
+		Collective
+		Easy Anvils [Forge & Fabric]
+		Easy Magic [Forge & Fabric]
+		Forge Config API Port
+		Puzzles Lib [Forge & Fabric]
+		FerriteCore (Fabric)
+		Geophilic – Vanilla Biome Overhauls
+		Handcrafted
+		Items Displayed [Fabric]
+		Just Mob Heads
+		LambDynamicLights
+		Leaves Be Gone [Forge & Fabric]
+		
 
 		+ Added Resource Packs:
 		Fresh Animations
