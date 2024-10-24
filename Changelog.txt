@@ -3,5 +3,24 @@ Alpha 0.1
 ====
  - Alpha 0.1.0 (Start of the Modpack)
 
-		+ Added mods:
+		+ Added Mods:
+		Create Fabric
+		Just Enough Items (JEI)
+		Mod Menu
+		Sodium
+		Sodium Extra
+		Reese's Sodium Options
+		Lithium (Fabric/NeoForge)
+		Indium
+		BadOptimizations
+		ModernFix
+		Rebind Narrator
+		[ETF] Entity Texture Features - [Fabric & Forge]
+		[EMF] Entity Model Features [Fabric & Forge]
+		Configured
+
+		+ Added Resource Packs:
+		Fresh Animations
+
+		* Tweaks:
 		
