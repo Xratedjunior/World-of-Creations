@@ -78,4 +78,7 @@ Alpha 0.1
 		Set Music volume to 20%
 		* Changed Key Binds:
 		Narrator: 'B' -> 'Not Bound'
+
+		* Config changes:
+		Change Mouse Tweaks scroll behavior
 		
