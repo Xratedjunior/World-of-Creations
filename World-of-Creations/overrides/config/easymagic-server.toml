@@ -27,4 +27,3 @@ dedicated_reroll_catalyst = false
 #Requires the re-rolling option to be enabled.
 #Range: > 0
 reroll_experience_points_cost = 5
-

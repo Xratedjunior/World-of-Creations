@@ -87,6 +87,7 @@ Alpha 0.1
 		Visuality
 		Structure Essentials[Forge/Fabric]
 		Cupboard
+		Inventory Sorting
 
 		+ Added Resource Packs:
 		Fresh Animations

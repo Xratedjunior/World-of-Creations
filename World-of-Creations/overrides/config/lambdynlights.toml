@@ -22,7 +22,18 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
-				item = true
+				axolotl = true
+				bee = true
+				arrow = true
+				block_display = true
+				boat = true
+				allay = true
+				area_effect_cloud = true
+				bat = true
+				blaze = true
+				camel = true
+				cat = true
+				cave_spider = true
+				armor_stand = true
 				glow_item_frame = false
-				player = true
 
