@@ -95,6 +95,12 @@ Alpha 0.1
 		* Changes to options:
 		Activate "Fresh Animations" Resource Pack
 		Set Music volume to 20%
+		* Changed Key Binds:
+		Narrator: 'B' -> 'Not Bound'
+
+		* Config changes:
+		Change "Mouse Tweaks" scroll behavior
+		Change "Inventory Sorting" behavior
 		"AmbientSounds 6" volume decreased to 40%
 		Disabled "BCLib" fog rendering for compatibility with "Simple Fog Control"
 		Tweaked start value for "Simple Fog Control"
@@ -102,11 +108,6 @@ Alpha 0.1
 		Disabled naming Name Tags without an Anvil by "Easy Anvils"
 		Decreased nebulas from "Nicer Skies"
 		Tweaked some sound values for "Sound Physics Remastered"
-		* Changed Key Binds:
-		Narrator: 'B' -> 'Not Bound'
-
-		* Config changes:
-		Change "Mouse Tweaks" scroll behavior
 
 		* Tweaks/Fixes:
 		Fixed "Create Fabric" and "Sound Physics Remastered" compatibility
