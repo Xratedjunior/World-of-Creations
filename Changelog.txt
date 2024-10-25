@@ -1,6 +1,16 @@
 1.20.1 Changelog
-Alpha 0.1
+Alpha versions
 ====
+ - Alpha 0.3.0
+		+ Added "Stay True" Resource Pack
+		+ Added Vanilla Tweaks:
+			HD Shield Banner Patterns
+			3D Sun & Moon
+			Unobtrusive Rain
+			Unobtrusive Snow
+			Lower Shield
+			Lower Fire
+			Moss Carpet Overhang (Separate for easy disabling)
  - Alpha 0.2.0
 		+ Added Mods:
 		Falling Leaves (Fabric)
