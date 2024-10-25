@@ -1,6 +1,6 @@
 {
   "terrainToggle": true,
-  "terrainStart": 70.0,
+  "terrainStart": 40.0,
   "terrainEnd": 130.0,
   "waterToggle": true,
   "waterStart": -20.0,
