@@ -2,6 +2,9 @@
 Alpha 0.1
 ====
  - Alpha 0.2.0
+		+ Added Mods:
+		Falling Leaves (Fabric)
+
 		+ Added non-curseforge Mod:
 		Better Clouds (Release 1.3.22 for 1.20.1 Fabric)
 		Particular (Particular 1.1.1)
@@ -12,6 +15,7 @@ Alpha 0.1
 
 		* Config changes:
 		Tweaked some "Particular" & "Visuality" options for compatibility
+		Decreased "Falling Leaves" particles
 
  - Alpha 0.1.0 (Start of the Modpack)
 
