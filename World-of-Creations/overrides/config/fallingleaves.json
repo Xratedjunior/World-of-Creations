@@ -4,7 +4,7 @@
   "enabled": true,
   "leafSize": 5,
   "leafLifespan": 200,
-  "leafSpawnRate": 10,
+  "leafSpawnRate": 2,
   "coniferLeafSpawnRate": 0,
   "cherrySpawnRate": 10,
   "snowflakeSpawnRate": 15,

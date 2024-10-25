@@ -15,7 +15,7 @@ Alpha 0.1
 
 		* Config changes:
 		Tweaked some "Particular" & "Visuality" options for compatibility
-		Decreased "Falling Leaves" particles
+		Decreased "Falling Leaves" spawn rate
 
  - Alpha 0.1.0 (Start of the Modpack)
 
