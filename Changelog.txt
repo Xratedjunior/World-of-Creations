@@ -11,6 +11,11 @@ Alpha versions
 			Lower Shield
 			Lower Fire
 			Moss Carpet Overhang (Separate for easy disabling)
+
+		Resource Pack:
+		Started custom Resource Pack for fixes
+		+ Added grass and foliage color map from "Stay True" by "haimcyfly"
+		
  - Alpha 0.2.0
 		+ Added Mods:
 		Falling Leaves (Fabric)
