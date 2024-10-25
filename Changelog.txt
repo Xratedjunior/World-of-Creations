@@ -10,6 +10,9 @@ Alpha 0.1
 		+ Added required library Mod:
 		oωo (owo-lib)
 
+		* Config changes:
+		Tweaked some "Particular" & "Visuality" options for compatibility
+
  - Alpha 0.1.0 (Start of the Modpack)
 
 		+ Added Mods:

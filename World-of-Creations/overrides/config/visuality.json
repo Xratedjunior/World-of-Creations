@@ -1,7 +1,7 @@
 {
-  "slimeEnabled": true,
+  "slimeEnabled": false,
   "chargeEnabled": true,
-  "sparkleEnabled": true,
+  "sparkleEnabled": false,
   "soulEnabled": true,
   "waterCircles": {
     "density": 10,
@@ -9,7 +9,7 @@
     "enabled": true,
     "colored": true
   },
-  "hitParticlesEnabled": true,
+  "hitParticlesEnabled": false,
   "hitParticleEntries": [
     "minecraft:skeleton/visuality:bone",
     "minecraft:skeleton_horse/visuality:bone",
@@ -18,7 +18,7 @@
     "minecraft:chicken/visuality:feather",
     "minecraft:villager/visuality:emerald"
   ],
-  "shinyArmorEnabled": true,
+  "shinyArmorEnabled": false,
   "shinyArmorEntries": [
     "minecraft:golden_helmet",
     "minecraft:golden_chestplate",
@@ -29,7 +29,7 @@
     "minecraft:diamond_leggings",
     "minecraft:diamond_boots"
   ],
-  "shinyBlocksEnabled": true,
+  "shinyBlocksEnabled": false,
   "shinyBlockEntries": [
     "minecraft:gold_ore",
     "minecraft:deepslate_gold_ore",
