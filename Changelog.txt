@@ -1,6 +1,13 @@
 1.20.1 Changelog
 Alpha versions
 ====
+ - Alpha 0.5.0
+		+ Added Mods:
+		MidnightLib
+		Make Bubbles Pop [Client] [Forge/Fabric/Quilt]
+
+		+ Added non-curseforge Mod:
+		Explosive Enhancement 1.2.2		
  - Alpha 0.4.1
 		* Updated Mods:
 		AmbientSounds 6
