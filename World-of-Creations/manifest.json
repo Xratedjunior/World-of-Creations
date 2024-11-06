@@ -12,7 +12,7 @@
   "manifestVersion": 1,
   "name": "World of Creations",
   "author": "Xrated_junior",
-  "version": "Alpha 0.4.0",
+  "version": "Alpha 0.4.1",
   "files": [
     {
       "projectID": 841890,
@@ -46,7 +46,7 @@
     },
     {
       "projectID": 254284,
-      "fileID": 5739374,
+      "fileID": 5844487,
       "required": true
     },
     {
@@ -141,7 +141,7 @@
     },
     {
       "projectID": 686911,
-      "fileID": 5838233,
+      "fileID": 5861157,
       "required": true
     },
     {
@@ -311,12 +311,12 @@
     },
     {
       "projectID": 957811,
-      "fileID": 5691132,
+      "fileID": 5875990,
       "required": true
     },
     {
       "projectID": 499980,
-      "fileID": 5831458,
+      "fileID": 5863541,
       "required": true
     },
     {
@@ -326,7 +326,7 @@
     },
     {
       "projectID": 790626,
-      "fileID": 5676012,
+      "fileID": 5876358,
       "required": true
     },
     {
@@ -336,7 +336,7 @@
     },
     {
       "projectID": 568563,
-      "fileID": 5734411,
+      "fileID": 5874149,
       "required": true
     },
     {

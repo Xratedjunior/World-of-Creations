@@ -22,18 +22,46 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				chicken = true
 				axolotl = true
 				bee = true
 				arrow = true
-				block_display = true
-				boat = true
+				donkey = true
+				cow = true
+				chest_minecart = true
+				pig = true
 				allay = true
+				pillager = true
+				skeleton = true
+				iron_golem = true
 				area_effect_cloud = true
 				bat = true
 				blaze = true
 				camel = true
 				cat = true
-				cave_spider = true
+				rabbit = true
+				zombie = true
 				armor_stand = true
+				sheep = true
+				player = true
+				item = true
+				wolf = true
+				villager = true
+				block_display = true
+				zombie_villager = true
+				goat = true
+				boat = true
+				horse = true
+				vindicator = true
+				cave_spider = true
+				glow_squid = true
+				witch = true
 				glow_item_frame = false
+				squid = true
+				spider = true
+				creeper = true
+				enderman = true
+
+			[light_sources.settings.entities.handcrafted]
+				seat = true
 

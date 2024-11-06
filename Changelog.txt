@@ -1,6 +1,14 @@
 1.20.1 Changelog
 Alpha versions
 ====
+ - Alpha 0.4.1
+		* Updated Mods:
+		AmbientSounds 6
+		Crate Delight (Fabric)
+		[ETF] Entity Texture Features - [Fabric & Forge]
+		ImmediatelyFast
+		ModernFix
+		Moonlight Lib
  - Alpha 0.4.0
 		+ Added Mod:
 		Eating Animation [Fabric]
