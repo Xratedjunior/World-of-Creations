@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","continuity:glass_pane_culling_fix","continuity:default","file/MossCarpetOverhang_MC1.20.x.zip","file/Stay_True_1.20.zip","file/FreshAnimations_v1.9.2.zip","file/World-of-Creations-Fixes","file/VanillaTweaks_MC1.20.x.zip"]
+resourcePacks:["vanilla","fabric","Moonlight Mods Dynamic Assets","continuity:glass_pane_culling_fix","continuity:default","file/MossCarpetOverhang_MC1.20.x.zip","file/VanillaTweaks_MC1.20.x.zip","file/Stay_True_1.20.zip","file/FreshAnimations_v1.9.2.zip","file/World-of-Creations-Fixes"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
