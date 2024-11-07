@@ -1,6 +1,58 @@
 1.20.1 Changelog
 Alpha versions
 ====
+ - Alpha 0.6.0
+		- Removed Mod:
+		Macaw's Bridges
+
+		- Removed Resource Pack:
+		HD Shield Banner Patterns (Vanilla Tweaks) - Incompatible with Elytra Trims
+
+		+ Added Mods:
+		Advancement Frames
+		Advancement Plaques [Fabric]
+		AttributeFix
+		Backpacked
+		Balm (Fabric Edition)
+		Better Mount HUD
+		Better Trim Tooltips
+		Bookshelf
+		DEUF Refabricated
+		Durability Notifier
+		Elytra Slot (Fabric/Forge/Quilt)
+		Elytra Trims
+		Enchantment Descriptions
+		Entity Culling Fabric/Forge
+		Explorify – Dungeons & Structures
+		Fabric Language Kotlin
+		Framework
+		Goblin Traders [Fabric]
+		Iceberg [Fabric]
+		Inventory HUD+
+		Iris Shaders
+		Jade 🔍
+		Jade Addons (Fabric)
+		Legendary Tooltips [Fabric]
+		Not Enough Animations
+		Prism [Fabric]
+		ToolTipFix
+		Traveler's Titles (Fabric)
+		Trimmable Tools
+		Trinkets (Fabric)
+		Waystones (Fabric Edition)
+		Xaero's Minimap
+		Xaero's World Map
+		YUNG's API (Fabric)
+		
+
+		+ Added Shader:
+		Miniature Shader (With some tweaks)
+
+		+ Added Resource Packs:
+		Eclectic Trove (Legendary Tooltips)
+		Hellim's Xaero's Maps Mob Icons
+		Icons - Xaero Minimap X Fresh Animations
+		Visual Traveler's Titles
  - Alpha 0.5.0
 		+ Added Mods:
 		MidnightLib
