@@ -1,6 +1,10 @@
 1.20.1 Changelog
 Alpha versions
 ====
+ - Alpha 0.7.2
+		* Updated Mods:
+		Crate Delight (Fabric)
+		CreativeCore
  - Alpha 0.7.1
 		* Custom Resource Pack changes:
 		Changed Birch Leaves color to green from "Stay True" by "haimcyfly"

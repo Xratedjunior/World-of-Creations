@@ -12,7 +12,7 @@
   "manifestVersion": 1,
   "name": "World of Creations",
   "author": "Xrated_junior",
-  "version": "Alpha 0.7.1",
+  "version": "Alpha 0.7.2",
   "files": [
     {
       "projectID": 841890,
@@ -81,7 +81,7 @@
     },
     {
       "projectID": 257814,
-      "fileID": 5842951,
+      "fileID": 5880311,
       "required": true
     },
     {
@@ -426,7 +426,7 @@
     },
     {
       "projectID": 957811,
-      "fileID": 5875990,
+      "fileID": 5881390,
       "required": true
     },
     {
