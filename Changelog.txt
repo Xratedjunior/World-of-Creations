@@ -1,6 +1,15 @@
 1.20.1 Changelog
 Alpha versions
 ====
+ - Alpha 0.7.0
+		+ Added Mods:
+		SuperMartijn642's Config Lib
+		Durability Tooltip
+
+		* Config changes:
+		Jade 🔍 - Disabled Mod name in Item Tooltip
+		Jade 🔍 - Disabled Item storage info for blocks
+		Legendary Tooltips [Fabric] - Disabled rendered item model in Tooltips
  - Alpha 0.6.1
 		* Config changes:
 		Amendments:
