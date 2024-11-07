@@ -1,0 +1,31 @@
+/*
+This config file makes it possible to switch off any structure from Towns and Towers. Big thanks to Cristelknight for making this all possible.
+To disable a structure, simply set the value of that structure to "false".
+*/
+{
+	"mid_rare_ruin": {
+		"taiga_ruin_surface": true,
+		"taiga_ruin_underground": true,
+		"northern_ruin": true
+	},
+	"outcast_villager": {
+		"abandoned_chapel": true,
+		"graveyard": true,
+		"abandoned_camp": true,
+		"outcast_villager_grassy": true,
+		"ruin_grassy": true,
+		"firetower": true,
+		"outcast_villager_desert": true,
+		"boat": true
+	},
+	"ruin_quiet": {
+		"swamp_ruin": true
+	},
+	"ruin": {
+		"jungle_ruin": true
+	},
+	"old_manor": {
+		"old_manor": true,
+		"dense_forest_ruin": true
+	}
+}

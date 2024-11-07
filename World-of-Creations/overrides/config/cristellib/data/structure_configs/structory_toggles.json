@@ -1,0 +1,20 @@
+{
+  "name": "structure_toggles",
+  "subPath": "structory",
+  "header": "This config file makes it possible to switch off any structure from Towns and Towers. Big thanks to Cristelknight for making this all possible.\nTo disable a structure, simply set the value of that structure to \"false\".",
+  "config_type": "ENABLE_DISABLE",
+  "comments": {
+  },
+  "structure_sets": [
+    {
+      "modid": "structory",
+      "structure_set": [
+        "structory:mid_rare_ruin",
+        "structory:old_manor",
+        "structory:outcast_villager",
+        "structory:ruin_quiet",
+        "structory:ruin"
+      ]
+    }
+  ]
+}
