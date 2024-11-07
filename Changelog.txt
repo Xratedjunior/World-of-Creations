@@ -1,0 +1,279 @@
+1.20.1 Changelog
+Alpha versions
+====
+ - Alpha 0.7.2
+		* Updated Mods:
+		Crate Delight (Fabric)
+		CreativeCore
+ - Alpha 0.7.1
+		* Custom Resource Pack changes:
+		Changed Birch Leaves color to green from "Stay True" by "haimcyfly"
+ - Alpha 0.7.0
+		+ Added Mods:
+		SuperMartijn642's Config Lib
+		Durability Tooltip
+
+		* Config changes:
+		Jade 🔍 - Disabled Mod name in Item Tooltip
+		Jade 🔍 - Disabled Item storage info for blocks
+		Legendary Tooltips [Fabric] - Disabled rendered item model in Tooltips
+ - Alpha 0.6.1
+		* Config changes:
+		Amendments:
+			Disabled hanging pots (Bugged, and alternative available)
+		Backpacked:
+			Disabled config button
+			Disabled pickpocketing
+			Decreased inventory size from 6 to 3 rows
+		Carry On:
+			Disabled picking up "Advancement Frames"
+		Structory:
+			Created configuration file using "Cristel Lib"
+			asd
+		Double Doors:
+			Disabled recursive opening
+			Disabled mod for Trapdoors
+		Enchantment Descriptions:
+			Enabled key bind press
+		Inventory HUD+:
+			Changed a lot of settings
+		Inventory Sorting:
+			Changed key bind from 'p' to 'r'
+		Iris Shaders:
+			Activate "Miniature Shader"
+		Jade 🔍:
+			Disabled fluids
+			Tweaked max displayed entity health with hearts
+		Particular:
+			Decreased firefly particles
+		Pick Up Notifier:
+			Changed background of popups
+		Structory:
+			Disabled structures;
+			- Graveyard
+			- Outcast villager (Grassy & Desert)
+			- Firetower
+			- Swamp ruin
+			- Old manor
+			- Dense forest ruin
+		Traveler's Titles (Fabric):
+			Tweaked some text display values
+		Xaero's Minimap & World Map:
+			Tweaked some map settings
+		Camera Utils:
+			Changed zoom key bind from 'z' to 'c'
+ - Alpha 0.6.0
+		- Removed Mod:
+		Macaw's Bridges
+
+		- Removed Resource Pack:
+		HD Shield Banner Patterns (Vanilla Tweaks) - Incompatible with Elytra Trims
+
+		+ Added Mods:
+		Advancement Frames
+		Advancement Plaques [Fabric]
+		AttributeFix
+		Backpacked
+		Balm (Fabric Edition)
+		Better Mount HUD
+		Better Trim Tooltips
+		Bookshelf
+		DEUF Refabricated
+		Durability Notifier
+		Elytra Slot (Fabric/Forge/Quilt)
+		Elytra Trims
+		Enchantment Descriptions
+		Entity Culling Fabric/Forge
+		Explorify – Dungeons & Structures
+		Fabric Language Kotlin
+		Framework
+		Goblin Traders [Fabric]
+		Iceberg [Fabric]
+		Inventory HUD+
+		Iris Shaders
+		Jade 🔍
+		Jade Addons (Fabric)
+		Legendary Tooltips [Fabric]
+		Not Enough Animations
+		Prism [Fabric]
+		ToolTipFix
+		Traveler's Titles (Fabric)
+		Trimmable Tools
+		Trinkets (Fabric)
+		Waystones (Fabric Edition)
+		Xaero's Minimap
+		Xaero's World Map
+		YUNG's API (Fabric)
+		
+
+		+ Added Shader:
+		Miniature Shader (With some tweaks)
+
+		+ Added Resource Packs:
+		Eclectic Trove (Legendary Tooltips)
+		Hellim's Xaero's Maps Mob Icons
+		Icons - Xaero Minimap X Fresh Animations
+		Visual Traveler's Titles
+ - Alpha 0.5.0
+		+ Added Mods:
+		MidnightLib
+		Make Bubbles Pop [Client] [Forge/Fabric/Quilt]
+
+		+ Added non-curseforge Mod:
+		Explosive Enhancement 1.2.2		
+ - Alpha 0.4.1
+		* Updated Mods:
+		AmbientSounds 6
+		Crate Delight (Fabric)
+		[ETF] Entity Texture Features - [Fabric & Forge]
+		ImmediatelyFast
+		ModernFix
+		Moonlight Lib
+ - Alpha 0.4.0
+		+ Added Mod:
+		Eating Animation [Fabric]
+ - Alpha 0.3.0
+		+ Added Vanilla Tweaks:
+			HD Shield Banner Patterns
+			3D Sun & Moon
+			Unobtrusive Rain
+			Unobtrusive Snow
+			Lower Shield
+			Lower Fire
+			Moss Carpet Overhang (Separate for easy disabling)
+
+		+ Resource Packs:
+		Added "Stay True" Resource Pack
+		Added and disabled "xali's Enhanced Vanilla" as alternative
+		Started custom Resource Pack for fixes
+
+		* Custom Resource Pack changes:
+		Added grass and foliage color map from "Stay True" by "haimcyfly"
+		
+ - Alpha 0.2.0
+		+ Added Mod:
+		Falling Leaves (Fabric)
+
+		+ Added non-curseforge Mods:
+		Better Clouds (Release 1.3.22 for 1.20.1 Fabric)
+		Particular (Particular 1.1.1)
+		Sushi Bar (Sushi Bar 0.2.2+1.20)
+
+		+ Added required library Mod:
+		oωo (owo-lib)
+
+		* Config changes:
+		Tweaked some "Particular" & "Visuality" options for compatibility
+		Decreased "Falling Leaves" spawn rate
+
+ - Alpha 0.1.0 (Start of the Modpack)
+
+		+ Added Mods:
+		Create Fabric
+		Just Enough Items (JEI)
+		Configured
+		Mod Menu
+		Sodium
+		Sodium Extra
+		Reese's Sodium Options
+		Lithium (Fabric/NeoForge)
+		Indium
+		BadOptimizations
+		ModernFix
+		ImmediatelyFast
+		Rebind Narrator
+		[ETF] Entity Texture Features - [Fabric & Forge]
+		[EMF] Entity Model Features [Fabric & Forge]
+		AmbientSounds 6
+		CreativeCore
+		Amendments
+		Moonlight Lib
+		Animal Feeding Trough [Fabric | Forge | Quilt | NeoForge]
+		Architectury API (Fabric/Forge/NeoForge)
+		AppleSkin
+		Armor Trim Item Fix
+		More Axolotl Variants API
+		More Axolotl Variants Mod
+		Beautify: Refabricated
+		Better Advancements
+		Better Statistics Screen
+		TCDCommons API
+		BetterNether
+		BetterEnd
+		BCLib
+		Bridging Mod
+		YetAnotherConfigLib
+		Camera Utils
+		Carry On
+		Chipped
+		Athena
+		Resourceful Lib
+		Continuity
+		Crate Delight (Fabric)
+		Cull Less Leaves
+		Double Doors
+		Collective
+		Easy Anvils [Forge & Fabric]
+		Easy Magic [Forge & Fabric]
+		Forge Config API Port
+		Puzzles Lib [Forge & Fabric]
+		FerriteCore (Fabric)
+		Geophilic – Vanilla Biome Overhauls
+		Handcrafted
+		Items Displayed [Fabric]
+		Just Mob Heads
+		LambDynamicLights
+		Leaves Be Gone [Forge & Fabric]
+		Macaw's Bridges
+		Macaw's Fences and Walls
+		Macaw's Paintings
+		Macaw's Paths and Pavings
+		Macaw's Roofs
+		Macaw's Windows
+		Model Gap Fix
+		More Slabs, Stairs, and Walls
+		Mouse Tweaks
+		NiceMod - New blocks
+		Nicer Skies
+		Overflowing Bars [Forge & Fabric]
+		Pick Up Notifier [Forge & Fabric]
+		Polymorph (Fabric/Forge/Quilt)
+		Simple Fog Control
+		Cloth Config API (Fabric/Forge/NeoForge)
+		Smarter Farmers (farmers replant)
+		Sound Physics Remastered
+		Stoneworks [Forge & Fabric]
+		Structory
+		Toggle Item Frames
+		Towns and Towers
+		Cristel Lib
+		Trade Cycling
+		Villager Names
+		Visuality
+		Structure Essentials[Forge/Fabric]
+		Cupboard
+		Inventory Sorting
+
+		+ Added Resource Packs:
+		Fresh Animations
+
+		* Changes to options:
+		Activate "Fresh Animations" Resource Pack
+		Set Music volume to 20%
+		* Changed Key Binds:
+		Narrator: 'B' -> 'Not Bound'
+
+		* Config changes:
+		Change "Mouse Tweaks" scroll behavior
+		Change "Inventory Sorting" behavior
+		"AmbientSounds 6" volume decreased to 40%
+		Disabled "BCLib" fog rendering for compatibility with "Simple Fog Control"
+		Tweaked start value for "Simple Fog Control"
+		Expanded blacklist for "Carry On"
+		Disabled naming Name Tags without an Anvil by "Easy Anvils"
+		Decreased nebulas from "Nicer Skies"
+		Tweaked some sound values for "Sound Physics Remastered"
+
+		* Tweaks/Fixes:
+		Fixed "Create Fabric" and "Sound Physics Remastered" compatibility
+		
