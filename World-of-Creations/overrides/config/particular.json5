@@ -14,7 +14,7 @@
 	"cakeEatingParticles": true,
 	"emissiveLavaDrips": true,
 	"fireflySettings": {
-		"startTime": 12000,
+		"startTime": 13526,
 		"endTime": 23000,
 		"minTemp": 0.5,
 		"maxTemp": 0.9900000095367432,
@@ -29,8 +29,8 @@
 		],
 		"grass": 0.0521879643201828,
 		"tallGrass": 0.0833333358168602,
-		"flowers": 1.0,
-		"tallFlowers": 0.5
+		"flowers": 0.501162588596344,
+		"tallFlowers": 0.2509533166885376
 	},
 	"fallingLeavesSettings": {
 		"spawnChance": 60,

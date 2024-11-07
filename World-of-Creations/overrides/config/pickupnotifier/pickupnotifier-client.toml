@@ -1,7 +1,7 @@
 [display]
 	#Mode for drawing a background behind entries for better visibility. 'CHAT' is similar to the chat background, 'TOOLTIP' uses the tooltip background rendering instead.
 	#Allowed Values: NONE, CHAT, TOOLTIP
-	entry_background = "NONE"
+	entry_background = "CHAT"
 	#Show a small sprite next to the name of each entry showing its contents.
 	draw_sprites = true
 	#Should the picked up amount be shown when it's just a single item.

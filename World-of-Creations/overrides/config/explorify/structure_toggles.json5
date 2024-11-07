@@ -7,7 +7,7 @@
 		"campsite": true
 	},
 	"taverns": {
-		"tavern": true
+		"tavern": false
 	},
 	"desert_shrines": {
 		"desert_shrine": true
@@ -16,13 +16,13 @@
 		"ruins": true
 	},
 	"mausoleums": {
-		"mausoleum": true
+		"mausoleum": false
 	},
 	"watchtowers": {
 		"watchtower": {
-			"plains": true,
-			"taiga": true,
-			"savanna": true
+			"plains": false,
+			"taiga": false,
+			"savanna": false
 		}
 	},
 	"supply_caches": {
@@ -43,7 +43,7 @@
 		"black_spiral": true
 	},
 	"mangrove_huts": {
-		"mangrove_hut": true
+		"mangrove_hut": false
 	},
 	"farmsteads": {
 		"farmstead": true

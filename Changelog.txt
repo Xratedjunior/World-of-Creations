@@ -1,6 +1,51 @@
 1.20.1 Changelog
 Alpha versions
 ====
+ - Alpha 0.6.1
+		* Config changes:
+		Amendments:
+			Disabled hanging pots (Bugged, and alternative available)
+		Backpacked:
+			Disabled config button
+			Disabled pickpocketing
+			Decreased inventory size from 6 to 3 rows
+		Carry On:
+			Disabled picking up "Advancement Frames"
+		Structory:
+			Created configuration file using "Cristel Lib"
+			asd
+		Double Doors:
+			Disabled recursive opening
+			Disabled mod for Trapdoors
+		Enchantment Descriptions:
+			Enabled key bind press
+		Inventory HUD+:
+			Changed a lot of settings
+		Inventory Sorting:
+			Changed key bind from 'p' to 'r'
+		Iris Shaders:
+			Activate "Miniature Shader"
+		Jade 🔍:
+			Disabled fluids
+			Tweaked max displayed entity health with hearts
+		Particular:
+			Decreased firefly particles
+		Pick Up Notifier:
+			Changed background of popups
+		Structory:
+			Disabled structures;
+			- Graveyard
+			- Outcast villager (Grassy & Desert)
+			- Firetower
+			- Swamp ruin
+			- Old manor
+			- Dense forest ruin
+		Traveler's Titles (Fabric):
+			Tweaked some text display values
+		Xaero's Minimap & World Map:
+			Tweaked some map settings
+		Camera Utils:
+			Changed zoom key bind from 'z' to 'c'
  - Alpha 0.6.0
 		- Removed Mod:
 		Macaw's Bridges

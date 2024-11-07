@@ -32,15 +32,19 @@ mode = "fancy"
 				bat = true
 				husk = true
 				camel = true
+				experience_bottle = true
 				rabbit = true
 				armor_stand = true
 				drowned = true
 				experience_orb = true
 				dolphin = true
 				item = true
+				salmon = true
 				goat = true
 				horse = true
 				vindicator = true
+				phantom = true
+				leash_knot = true
 				glow_squid = true
 				glow_item_frame = false
 				squid = true
@@ -69,11 +73,33 @@ mode = "fancy"
 				block_display = true
 				zombie_villager = true
 				boat = true
+				strider = true
 				cave_spider = true
 				witch = true
 				cod = true
 				spider = true
+				fox = true
+				turtle = true
+				frog = true
+				parrot = true
+				piglin = true
+				zombified_piglin = true
+				ender_dragon = true
+				painting = true
+				item_frame = true
+				evoker = true
+				magma_cube = true
 
 			[light_sources.settings.entities.handcrafted]
 				seat = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				hydrogen_jellyfish = true
+				naga = true
+				skull = true
+
+			[light_sources.settings.entities.goblintraders]
+				goblin_trader = true
+				vein_goblin_trader = true
 

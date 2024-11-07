@@ -10,22 +10,22 @@ To disable a structure, simply set the value of that structure to "false".
 	},
 	"outcast_villager": {
 		"abandoned_chapel": true,
-		"graveyard": true,
+		"graveyard": false,
 		"abandoned_camp": true,
-		"outcast_villager_grassy": true,
+		"outcast_villager_grassy": false,
 		"ruin_grassy": true,
-		"firetower": true,
-		"outcast_villager_desert": true,
+		"firetower": false,
+		"outcast_villager_desert": false,
 		"boat": true
 	},
 	"ruin_quiet": {
-		"swamp_ruin": true
+		"swamp_ruin": false
 	},
 	"ruin": {
 		"jungle_ruin": true
 	},
 	"old_manor": {
-		"old_manor": true,
-		"dense_forest_ruin": true
+		"old_manor": false,
+		"dense_forest_ruin": false
 	}
 }

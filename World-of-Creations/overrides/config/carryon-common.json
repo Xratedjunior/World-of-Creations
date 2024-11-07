@@ -197,7 +197,8 @@
       "cuffed:*",
       "minecraft:spawner",
       "minecraft:trial_spawner",
-      "amendments:*"
+      "amendments:*",
+      "advancementframes:*"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
