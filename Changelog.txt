@@ -1,6 +1,10 @@
 1.20.1 Changelog
 Alpha versions
 ====
+ - Alpha 0.7.3
+		* Custom Resource Pack changes:
+		Reduced "Vanilla Tweaks" Moss Carpet overhang
+		Changed Moss Carpet Item texture to vanilla (Without overhang)
  - Alpha 0.7.2
 		* Updated Mods:
 		Crate Delight (Fabric)
