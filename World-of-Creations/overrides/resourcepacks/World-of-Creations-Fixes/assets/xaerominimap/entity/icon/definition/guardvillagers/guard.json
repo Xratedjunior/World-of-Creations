@@ -1,0 +1,7 @@
+
+{
+	"variants" : {
+		"default" : "sprite:guardvillagers/guard.png",
+		"layersAllowed": true
+	  }
+  }

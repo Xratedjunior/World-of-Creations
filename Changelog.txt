@@ -19,6 +19,10 @@ Alpha versions
 		* Config changes:
 		No electricity needed for "MrCrayfish's Furniture Mod: Refurbished"
 		Render changes for "Building Wands"
+
+		+ Custom Resource Pack additions:
+		Added "Xaero's Minimap" icons for Guards and Botanist Villagers
+		Changed Resource Pack logo
  - Alpha 0.7.4
 		+ Custom Resource Pack additions:
 		Added "Xaero's Minimap" icons for Goat, Sniffer, Allay and "More Axolotl Variants Mod"
