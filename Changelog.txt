@@ -1,6 +1,9 @@
 1.20.1 Changelog
 Alpha versions
 ====
+ - Alpha 0.7.4
+		+ Custom Resource Pack additions:
+		Added "Xaero's Minimap" icons for Goat, Sniffer, Allay and "More Axolotl Variants Mod"
  - Alpha 0.7.3
 		* Custom Resource Pack changes:
 		Reduced "Vanilla Tweaks" Moss Carpet overhang

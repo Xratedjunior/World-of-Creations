@@ -1,0 +1,22 @@
+
+{
+	"variants" : {
+		"minecraft:textures/entity/axolotl/axolotl_blue.png" : "sprite:minecraft/axolotl/axolotl_blue.png",
+		"minecraft:textures/entity/axolotl/axolotl_cyan.png" : "sprite:minecraft/axolotl/axolotl_cyan.png",
+		"minecraft:textures/entity/axolotl/axolotl_gold.png" : "sprite:minecraft/axolotl/axolotl_gold.png",
+		"minecraft:textures/entity/axolotl/axolotl_lucy.png" : "sprite:minecraft/axolotl/axolotl_lucy.png",
+		"minecraft:textures/entity/axolotl/axolotl_wild.png" : "sprite:minecraft/axolotl/axolotl_wild.png",
+		"mavm:textures/entity/axolotl/axolotl_black.png" : "sprite:minecraft/axolotl_variants/axolotl_black.png",
+		"mavm:textures/entity/axolotl/axolotl_cyanide.png" : "sprite:minecraft/axolotl_variants/axolotl_cyanide.png",
+		"mavm:textures/entity/axolotl/axolotl_glowxolotl.png" : "sprite:minecraft/axolotl_variants/axolotl_glowxolotl.png",
+		"mavm:textures/entity/axolotl/axolotl_golden.png" : "sprite:minecraft/axolotl_variants/axolotl_golden.png",
+		"mavm:textures/entity/axolotl/axolotl_green.png" : "sprite:minecraft/axolotl_variants/axolotl_green.png",
+		"mavm:textures/entity/axolotl/axolotl_lucia.png" : "sprite:minecraft/axolotl_variants/axolotl_lucia.png",
+		"mavm:textures/entity/axolotl/axolotl_red.png" : "sprite:minecraft/axolotl_variants/axolotl_red.png",
+		"mavm:textures/entity/axolotl/axolotl_skulk.png" : "sprite:minecraft/axolotl_variants/axolotl_skulk.png",
+		"mavm:textures/entity/axolotl/axolotl_white.png" : "sprite:minecraft/axolotl_variants/axolotl_white.png",
+		"mavm:textures/entity/axolotl/axolotl_wilder.png" : "sprite:minecraft/axolotl_variants/axolotl_wilder.png",
+		"default" : "sprite:minecraft/axolotl/blank.png",
+		"layersAllowed": true
+	  }
+  }

@@ -1,0 +1,8 @@
+
+{
+	"variants" : {
+		"minecraft:textures/entity/goat/goat.png" : "sprite:minecraft/goat.png",
+		"default" : "sprite:minecraft/goat.png",
+		"layersAllowed": true
+	  }
+  }

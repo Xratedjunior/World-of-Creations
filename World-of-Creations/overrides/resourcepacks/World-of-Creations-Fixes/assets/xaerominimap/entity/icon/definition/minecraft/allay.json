@@ -1,0 +1,8 @@
+
+{
+	"variants" : {
+		"minecraft:textures/entity/allay/allay.png" : "sprite:minecraft/allay.png",
+		"default" : "sprite:minecraft/allay.png",
+		"layersAllowed": true
+	  }
+  }

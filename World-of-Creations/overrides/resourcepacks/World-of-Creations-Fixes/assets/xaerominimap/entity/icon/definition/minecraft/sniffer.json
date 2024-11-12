@@ -1,0 +1,8 @@
+
+{
+	"variants" : {
+		"minecraft:textures/entity/sniffer/sniffer.png" : "sprite:minecraft/sniffer.png",
+		"default" : "sprite:minecraft/sniffer.png",
+		"layersAllowed": true
+	  }
+  }
