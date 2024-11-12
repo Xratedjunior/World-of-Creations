@@ -89,6 +89,12 @@ mode = "fancy"
 				item_frame = true
 				evoker = true
 				magma_cube = true
+				vex = true
+				sniffer = true
+				ravager = true
+				hoglin = true
+				piglin_brute = true
+				tadpole = true
 
 			[light_sources.settings.entities.handcrafted]
 				seat = true
@@ -98,8 +104,18 @@ mode = "fancy"
 				hydrogen_jellyfish = true
 				naga = true
 				skull = true
+				flying_pig = true
+				jungle_skeleton = true
 
 			[light_sources.settings.entities.goblintraders]
 				goblin_trader = true
 				vein_goblin_trader = true
+
+			[light_sources.settings.entities.betterend]
+				dragonfly = true
+				end_slime = true
+				end_fish = true
+				shadow_walker = true
+				cubozoa = true
+				silk_moth = true
 
