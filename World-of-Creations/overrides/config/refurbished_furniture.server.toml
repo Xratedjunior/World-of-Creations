@@ -60,7 +60,7 @@
 		# connected to an Electricity Generator. Warning, some blocks may no longer work as
 		# expected. Use at your own risk of a downgraded experience.
 		# Valid values: true, false
-		everythingIsPowered = false
+		everythingIsPowered = true
 # Trampoline related properties
 [trampoline]
 	# The maximum height that can be achieved from bouncing on the trampoline. The maximum
