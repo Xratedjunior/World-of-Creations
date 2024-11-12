@@ -12,7 +12,7 @@
   "manifestVersion": 1,
   "name": "World of Creations",
   "author": "Xrated_junior",
-  "version": "Alpha 0.7.4",
+  "version": "Alpha 0.8.0",
   "files": [
     {
       "projectID": 841890,
@@ -135,6 +135,11 @@
       "required": true
     },
     {
+      "projectID": 610492,
+      "fileID": 4815126,
+      "required": true
+    },
+    {
       "projectID": 453925,
       "fileID": 5442191,
       "required": true
@@ -162,6 +167,11 @@
     {
       "projectID": 510234,
       "fileID": 4691825,
+      "required": true
+    },
+    {
+      "projectID": 961754,
+      "fileID": 5870242,
       "required": true
     },
     {
@@ -435,6 +445,11 @@
       "required": true
     },
     {
+      "projectID": 989479,
+      "fileID": 5382599,
+      "required": true
+    },
+    {
       "projectID": 605235,
       "fileID": 5532619,
       "required": true
@@ -450,6 +465,11 @@
       "required": true
     },
     {
+      "projectID": 651876,
+      "fileID": 4665623,
+      "required": true
+    },
+    {
       "projectID": 433760,
       "fileID": 5698667,
       "required": true
@@ -457,6 +477,11 @@
     {
       "projectID": 514882,
       "fileID": 5762252,
+      "required": true
+    },
+    {
+      "projectID": 521673,
+      "fileID": 4650417,
       "required": true
     },
     {
@@ -485,6 +510,11 @@
       "required": true
     },
     {
+      "projectID": 571503,
+      "fileID": 4942394,
+      "required": true
+    },
+    {
       "projectID": 459857,
       "fileID": 4810977,
       "required": true
@@ -510,6 +540,11 @@
       "required": true
     },
     {
+      "projectID": 897116,
+      "fileID": 5893818,
+      "required": true
+    },
+    {
       "projectID": 570073,
       "fileID": 5659872,
       "required": true
@@ -532,6 +567,11 @@
     {
       "projectID": 500525,
       "fileID": 5644969,
+      "required": true
+    },
+    {
+      "projectID": 496913,
+      "fileID": 4603805,
       "required": true
     },
     {
@@ -635,6 +675,11 @@
       "required": true
     },
     {
+      "projectID": 455585,
+      "fileID": 4654396,
+      "required": true
+    },
+    {
       "projectID": 834329,
       "fileID": 5743744,
       "required": true
@@ -672,6 +717,11 @@
     {
       "projectID": 228525,
       "fileID": 5423988,
+      "required": true
+    },
+    {
+      "projectID": 363392,
+      "fileID": 5119747,
       "required": true
     },
     {

@@ -1,6 +1,20 @@
 1.20.1 Changelog
 Alpha versions
 ====
+ - Alpha 0.8.0
+		+ Added Mods:
+		Another Furniture
+		Bountiful (Fabric)
+		Building But Better
+		Building Wands
+		Guard Villagers (Fabric/Quilt)
+		Kambrik
+		MrCrayfish's Furniture Mod: Refurbished
+		Night Lights
+		Twigs
+
+		+ Added Resource Pack:
+		F.M.R.P
  - Alpha 0.7.4
 		+ Custom Resource Pack additions:
 		Added "Xaero's Minimap" icons for Goat, Sniffer, Allay and "More Axolotl Variants Mod"
