@@ -1,0 +1,73 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+enderPearlTrail = false
+snowballTrailDensity = 0.31834660947712434
+allayMagicDensity = 0.0
+vexMagicDensity = 0.0
+sheepShearFluff = false
+improvedDragonFireballTrail = true
+commandBlockMinecartParticles = "OFF"
+stomachGrowlingThreshold = 0
+stomachGrowlingVolume = 1.0
+heartBeatingThreshold = 6
+heartbeatVolume = 0.49679586
+endCrystalParticles = true
+minecartLandingSparks = true
+slimeTrails = false
+magmaCubeTrails = false
+replaceSlimeSquishParticles = true
+replaceSpellCasterParticles = true
+ironGolemCrackParticles = false
+spectralArrowParticles = false
+wardenDeathSoulParticles = false
+drowningBubbles = "OFF"
+drowningBubblesDensity = 10
+frostyBreath = "DEFAULT"
+frostyBreathAlpha = 0.2
+frostyBreathTime = 80
+frostyBreathSeasons = "DEFAULT"
+
+[attacked]
+chickenFeathers = false
+parrotFeathers = true
+snowGolemSnowflakes = true
+
+[sleeping]
+playerSnoreChance = 1.0
+playerSnoreSoundVolume = 1.0
+playersHaveSleepingZs = true
+villagerSnoreChance = 1.0
+villagerSnoreSoundVolume = 1.0
+villagersHaveSleepingZs = true
+foxesHaveSleepingZs = true
+batsHaveSleepingZs = true
+catsHaveSleepingZs = true
+otherMobsHaveSleepingZs = true
+displaySleepingZsOnlyWhenSnoring = false
+adjustNameTagWhenSleeping = true
+
+[dustClouds]
+scale = 0.5
+alpha = 0.5
+playerFell = true
+playerRunning = false
+mobFell = true
+mobRunning = false
+landMaceAttack = true
+preventWhenRaining = false
+
+[burning]
+smoke = "UPDATED"
+flames = false
+sparks = true
+sounds = false
+
+[itemRarity]
+particlesDisplayType = "OFF"
+particleColor = "NAME_COLOR"
+particleMaxHeight = 7
+
+[primedTNT]
+updateSmoke = false
+flames = false
+sparks = false

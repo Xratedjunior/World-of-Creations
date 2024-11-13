@@ -12,7 +12,7 @@
   "manifestVersion": 1,
   "name": "World of Creations",
   "author": "Xrated_junior",
-  "version": "Alpha 0.8.0",
+  "version": "Alpha 0.9.0",
   "files": [
     {
       "projectID": 841890,
@@ -425,11 +425,6 @@
       "required": true
     },
     {
-      "projectID": 957811,
-      "fileID": 5881390,
-      "required": true
-    },
-    {
       "projectID": 711539,
       "fileID": 5604689,
       "required": true
@@ -440,8 +435,8 @@
       "required": true
     },
     {
-      "projectID": 499980,
-      "fileID": 5863541,
+      "projectID": 957811,
+      "fileID": 5881390,
       "required": true
     },
     {
@@ -450,8 +445,23 @@
       "required": true
     },
     {
+      "projectID": 499980,
+      "fileID": 5863541,
+      "required": true
+    },
+    {
+      "projectID": 1005914,
+      "fileID": 5848840,
+      "required": true
+    },
+    {
       "projectID": 605235,
       "fileID": 5532619,
+      "required": true
+    },
+    {
+      "projectID": 1023913,
+      "fileID": 5889878,
       "required": true
     },
     {
@@ -605,13 +615,13 @@
       "required": true
     },
     {
-      "projectID": 456956,
-      "fileID": 5813139,
+      "projectID": 500087,
+      "fileID": 5841747,
       "required": true
     },
     {
-      "projectID": 500087,
-      "fileID": 5841747,
+      "projectID": 456956,
+      "fileID": 5813139,
       "required": true
     },
     {
@@ -645,8 +655,8 @@
       "required": true
     },
     {
-      "projectID": 388800,
-      "fileID": 5736385,
+      "projectID": 317716,
+      "fileID": 5778732,
       "required": true
     },
     {
@@ -655,8 +665,8 @@
       "required": true
     },
     {
-      "projectID": 317716,
-      "fileID": 5778732,
+      "projectID": 388800,
+      "fileID": 5736385,
       "required": true
     },
     {
