@@ -1,11 +1,11 @@
 # Don't change this! Version used to track needed updates.
 version = 0
-redstoneBlockDust = true
+redstoneBlockDust = false
 redstoneBlockDustDensity = "DEFAULT"
-glowstoneBlockDustDisplayType = "ON"
+glowstoneBlockDustDisplayType = "OFF"
 glowstoneBlockDustDensity = "DEFAULT"
-beehivesHaveSleepingZs = true
-fallingBlockDust = true
+beehivesHaveSleepingZs = false
+fallingBlockDust = false
 fallingBlockDustBlocks = [
     "minecraft:sand",
     "minecraft:red_sand",
@@ -27,46 +27,46 @@ fallingBlockDustBlocks = [
     "minecraft:red_concrete_powder",
     "minecraft:black_concrete_powder"
 ]
-torchflowerSmoke = "DEFAULT"
-torchflowerFlames = true
-dragonEggParticles = true
+torchflowerSmoke = "OFF"
+torchflowerFlames = false
+dragonEggParticles = false
 replaceEndPortalSmoke = true
 pumpkinCarvedParticles = true
 anvilBreakParticles = true
 anvilUseParticles = true
 grindstoneUseParticles = true
-commandBlockParticles = "ON"
+commandBlockParticles = "OFF"
 slimeBlockBounceSounds = true
 beaconParticles = true
 compostingParticles = true
 respawnAnchorParticles = true
 beehiveShearParticles = true
 endPortalParticles = true
-leavesDecayEffects = true
-farmlandDestroyEffects = true
-amethystSparkleDisplayType = "ON"
-amethystSparkleSounds = true
-floweringAzaleaPetals = true
+leavesDecayEffects = false
+farmlandDestroyEffects = false
+amethystSparkleDisplayType = "OFF"
+amethystSparkleSounds = false
+floweringAzaleaPetals = false
 sculkBlockSculkDust = true
 sculkVeinSculkDust = true
-sculkShriekerDestroySouls = true
-sculkCatalystDestroySouls = true
-calibratedSculkSensorAmethystSparkle = true
+sculkShriekerDestroySouls = false
+sculkCatalystDestroySouls = false
+calibratedSculkSensorAmethystSparkle = false
 campfireSizzlingSounds = true
-campfireSizzlingSoundVolume = 0.5
-vegetationFirefliesDensity = 30
+campfireSizzlingSoundVolume = 0.100873165
+vegetationFirefliesDensity = 0
 vegetationFirefliesSpawnType = "FLOWERS_ONLY"
 
 [sparks]
 removeVanillaCampfireSparks = true
 candleSparks = true
-furnaceSparks = true
+furnaceSparks = false
 fireSparks = true
 campfireSparks = true
 torchSparks = true
 lanternSparks = true
 lavaCauldronSparks = true
-lavaSparks = "ON"
+lavaSparks = "OFF"
 
 [updatedSmoke]
 candleSmoke = true
