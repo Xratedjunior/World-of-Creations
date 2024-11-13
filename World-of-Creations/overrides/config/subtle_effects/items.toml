@@ -2,4 +2,4 @@
 version = 0
 axeStripParticles = true
 waterEvaporateFromBucketSteam = true
-boneMealUsingParticles = false
+boneMealUsingParticles = true

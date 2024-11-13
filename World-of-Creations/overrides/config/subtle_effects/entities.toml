@@ -1,34 +1,34 @@
 # Don't change this! Version used to track needed updates.
 version = 0
-enderPearlTrail = false
-snowballTrailDensity = 0.31834660947712434
-allayMagicDensity = 0.0
-vexMagicDensity = 0.0
-sheepShearFluff = false
+enderPearlTrail = true
+snowballTrailDensity = 0.2
+allayMagicDensity = 0.2
+vexMagicDensity = 0.2
+sheepShearFluff = true
 improvedDragonFireballTrail = true
-commandBlockMinecartParticles = "OFF"
-stomachGrowlingThreshold = 0
+commandBlockMinecartParticles = "ON"
+stomachGrowlingThreshold = 6
 stomachGrowlingVolume = 1.0
 heartBeatingThreshold = 6
-heartbeatVolume = 0.49679586
+heartbeatVolume = 1.0
 endCrystalParticles = true
 minecartLandingSparks = true
-slimeTrails = false
-magmaCubeTrails = false
+slimeTrails = true
+magmaCubeTrails = true
 replaceSlimeSquishParticles = true
 replaceSpellCasterParticles = true
-ironGolemCrackParticles = false
-spectralArrowParticles = false
-wardenDeathSoulParticles = false
-drowningBubbles = "OFF"
+ironGolemCrackParticles = true
+spectralArrowParticles = true
+wardenDeathSoulParticles = true
+drowningBubbles = "DEFAULT"
 drowningBubblesDensity = 10
 frostyBreath = "DEFAULT"
-frostyBreathAlpha = 0.2
-frostyBreathTime = 80
+frostyBreathAlpha = 0.5
+frostyBreathTime = 60
 frostyBreathSeasons = "DEFAULT"
 
 [attacked]
-chickenFeathers = false
+chickenFeathers = true
 parrotFeathers = true
 snowGolemSnowflakes = true
 
@@ -47,27 +47,27 @@ displaySleepingZsOnlyWhenSnoring = false
 adjustNameTagWhenSleeping = true
 
 [dustClouds]
-scale = 0.5
-alpha = 0.5
+scale = 2.0
+alpha = 1.0
 playerFell = true
-playerRunning = false
+playerRunning = true
 mobFell = true
-mobRunning = false
+mobRunning = true
 landMaceAttack = true
 preventWhenRaining = false
 
 [burning]
-smoke = "UPDATED"
-flames = false
+smoke = "DEFAULT"
+flames = true
 sparks = true
-sounds = false
+sounds = true
 
 [itemRarity]
-particlesDisplayType = "OFF"
+particlesDisplayType = "ON"
 particleColor = "NAME_COLOR"
 particleMaxHeight = 7
 
 [primedTNT]
-updateSmoke = false
-flames = false
-sparks = false
+updateSmoke = true
+flames = true
+sparks = true
